@@ -1,0 +1,28 @@
+{
+  "name": "jwt-user-authentication-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "devStart": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/humayun-rashid/jwt-user-authentication-nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/humayun-rashid/jwt-user-authentication-nodejs/issues"
+  },
+  "homepage": "https://github.com/humayun-rashid/jwt-user-authentication-nodejs#readme",
+  "dependencies": {
+    "bcrypt": "^4.0.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
