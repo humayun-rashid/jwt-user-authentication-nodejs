@@ -20,7 +20,7 @@
   "homepage": "https://github.com/humayun-rashid/jwt-user-authentication-nodejs#readme",
   "dependencies": {
     "bcrypt": "^4.0.0",
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   },
   "devDependencies": {
     "nodemon": "^2.0.2"
